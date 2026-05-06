@@ -48,6 +48,16 @@ The project provides a responsive user interface, secure backend APIs, product m
 
 ---
 
+#output
+
+<img width="1901" height="866" alt="Screenshot 2026-04-21 194722" src="https://github.com/user-attachments/assets/b6adc169-9001-498c-a360-202d69bd0da1" />
+
+
+<img width="1893" height="873" alt="Screenshot 2026-04-21 194656" src="https://github.com/user-attachments/assets/d5ed6529-d575-452a-9da3-5c2bdd3310cc" />
+
+
+
+
 # 📂 Project Structure
 
 ```bash
@@ -68,9 +78,6 @@ Saubhagya-stores-Ecommerce-website/
 
 
 
-#output
-
-<img width="1901" height="866" alt="Screenshot 2026-04-21 194722" src="https://github.com/user-attachments/assets/b6adc169-9001-498c-a360-202d69bd0da1" />
 
 
-<img width="1893" height="873" alt="Screenshot 2026-04-21 194656" src="https://github.com/user-attachments/assets/d5ed6529-d575-452a-9da3-5c2bdd3310cc" />
+
